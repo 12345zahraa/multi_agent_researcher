@@ -39,11 +39,10 @@ cd multi_agent_researcher
 ```bash
 # Activation (Windows)
 .\venv\Scripts\activate
-
 ```bash
 # Install requirements
 pip install crewai streamlit langchain-community pydantic
-۳. مطمئن شوید مدل‌های زیر روی Ollama شما نصب هستند:
+۳. مطمئن شوید مدل‌های زیر روی Ollama شما :
 ```bash
 ollama run gemma2:2b
 ollama run llama3.2:1b
