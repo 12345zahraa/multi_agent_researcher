@@ -34,6 +34,7 @@
 ```bash
 git clone [https://github.com/your-username/multi_agent_researcher.git](https://github.com/your-username/multi_agent_researcher.git)
 cd multi_agent_researcher
+```bash
 ۲. محیط مجازی را فعال کرده و نیازمندی‌ها را نصب کنید:
 
 
