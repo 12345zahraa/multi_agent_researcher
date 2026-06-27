@@ -35,16 +35,5 @@
 git clone [https://github.com/your-username/multi_agent_researcher.git](https://github.com/your-username/multi_agent_researcher.git)
 cd multi_agent_researcher
 
-۲. محیط مجازی را فعال کرده و نیازمندی‌ها را نصب کنید:
-```bash
-# Activation (Windows)
-.\venv\Scripts\activate
-```bash
-# Install requirements
-pip install crewai streamlit langchain-community pydantic
-۳. مطمئن شوید مدل‌های زیر روی Ollama شما :
-```bash
-ollama run gemma2:2b
-ollama run llama3.2:1b
-۴. اجرای برنامه تحت وب:
-python -m streamlit run app.py
+
+
